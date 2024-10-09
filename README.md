@@ -1,7 +1,7 @@
 ## Overview 🌟
 
 Chatterhub is a web application designed for real-time communication via chat rooms. Users can easily create or join rooms to engage in conversations. The app offers a seamless experience, allowing registration via email and username. Its focus is on simplicity and efficiency, aiming to connect users quickly. 
-Key features include creating/joining rooms with unique IDs, email notifications, new user has access to all the previos chat messages
+Key features include creating/joining rooms with unique IDs, email notifications, new user has access to all the previous chat messages.
 
 ## Technical Details🚀
 - Built a group chat web application using Socket.io, allowing users to create or join rooms using auto-generated keys to engage in real-time chat conversations with other users.
